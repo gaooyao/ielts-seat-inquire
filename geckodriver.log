@@ -1,0 +1,374 @@
+1590146382349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileiRCLV5"
+1590146384377	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590146385715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590146385715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590146385716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590146385716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590146392965	Marionette	INFO	Listening on port 7804
+1590146393250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590146522493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileV7b2Xl"
+1590146523065	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590146523843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590146523843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590146523843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590146523843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590146527133	Marionette	INFO	Listening on port 8074
+1590146527226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+1590147171722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofile6OpKgk"
+1590147172444	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590147173328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590147173328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590147173329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590147173329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590147176850	Marionette	INFO	Listening on port 8587
+1590147176950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590147276228	Marionette	INFO	Stopped listening on port 8587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590147282395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileSjezgb"
+1590147282976	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590147283763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590147283763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590147283763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590147283763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590147287112	Marionette	INFO	Listening on port 8754
+1590147287148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+1590148042840	Marionette	INFO	Stopped listening on port 8754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1590148047135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofilenBVWax"
+1590148047716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590148048502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590148048502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590148048502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590148048502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590148051939	Marionette	INFO	Listening on port 9267
+1590148052364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+1590148379947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileySICyp"
+1590148380603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590148381404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590148381404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590148381404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590148381404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590148384595	Marionette	INFO	Listening on port 9552
+1590148384677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590148630947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileMdzyvS"
+1590148631515	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590148632313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590148632313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590148632313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590148632313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590148635542	Marionette	INFO	Listening on port 9778
+1590148635677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 5: Script terminated by timeout at:
+trigger@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:13198
+e.event.trigger@https://ielts.neea.cn/jquery/jquery-migrate-1.2.1.min.js:2:6732
+simulate@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:16639
+r@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:19701
+
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+enter@resource://devtools/server/actors/utils/event-loop.js:79:18
+_pushThreadPause@resource://devtools/server/actors/thread.js:265:15
+_pauseAndRespond@resource://devtools/server/actors/thread.js:842:12
+onDebuggerStatement@resource://devtools/server/actors/thread.js:1776:17
+_$7N@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:104146
+_$7N@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:88968
+_$XP@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:1698
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+enter@resource://devtools/server/actors/utils/event-loop.js:79:18
+_pushThreadPause@resource://devtools/server/actors/thread.js:265:15
+_pauseAndRespond@resource://devtools/server/actors/thread.js:842:12
+onDebuggerStatement@resource://devtools/server/actors/thread.js:1776:17
+_$7N@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:104146
+_$7N@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:88968
+_$XP@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:1698
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'
+JavaScript warning: resource://devtools-client-shared/vendor/react-dom.js, line 3024: Script terminated by timeout at:
+shouldUseChangeEvent@resource://devtools-client-shared/vendor/react-dom.js:3024:1
+extractEvents@resource://devtools-client-shared/vendor/react-dom.js:3199:29
+extractEvents@resource://devtools-client-shared/vendor/react-dom.js:575:44
+runExtractedEventsInBatch@resource://devtools-client-shared/vendor/react-dom.js:605:29
+handleTopLevel@resource://devtools-client-shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools-client-shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools-client-shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools-client-shared/vendor/react-dom.js:4351:19
+interactiveUpdates$1/<@resource://devtools-client-shared/vendor/react-dom.js:15803:14
+unstable_runWithPriority@resource://devtools-client-shared/vendor/react.js:617:12
+interactiveUpdates$1@resource://devtools-client-shared/vendor/react-dom.js:15802:12
+interactiveUpdates@resource://devtools-client-shared/vendor/react-dom.js:1901:10
+dispatchInteractiveEvent@resource://devtools-client-shared/vendor/react-dom.js:4328:21
+
+1590148933471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofilecWJKy7"
+1590148934038	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590148934839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590148934839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590148934840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590148934840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590148938254	Marionette	INFO	Listening on port 10048
+1590148938700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript warning: resource://devtools/server/actors/inspector/event-collector.js, line 530: debuggee `https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5' would run
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+enter@resource://devtools/server/actors/utils/event-loop.js:79:18
+_pushThreadPause@resource://devtools/server/actors/thread.js:265:15
+_pauseAndRespond@resource://devtools/server/actors/thread.js:842:12
+onDebuggerStatement@resource://devtools/server/actors/thread.js:1776:17
+_$SK@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:104146
+_$SK@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:88968
+_$Uf@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:1698
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+enter@resource://devtools/server/actors/utils/event-loop.js:79:18
+_pushThreadPause@resource://devtools/server/actors/thread.js:265:15
+_pauseAndRespond@resource://devtools/server/actors/thread.js:842:12
+onDebuggerStatement@resource://devtools/server/actors/thread.js:1776:17
+_$SK@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:104146
+_$SK@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:88968
+_$Uf@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:1698
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 16: Error: Current thread has paused or resumed
+1590150002915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileKTRr1S"
+1590150003485	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590150004280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590150004280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590150004281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590150004281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590150007910	Marionette	INFO	Listening on port 10752
+1590150008143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 5: Script terminated by timeout at:
+trigger@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:13129
+e.event.trigger@https://ielts.neea.cn/jquery/jquery-migrate-1.2.1.min.js:2:6732
+simulate@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:16639
+r@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:19701
+
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 16: Error: Current thread has paused or resumed
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 16: Error: Current thread has paused or resumed
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 107ms)
+console.warn: "Failed to enumerate localStorage for host https://ielts.neea.cn: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate sessionStorage for host https://ielts.neea.cn: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://ielts.neea.cn: TypeError: caches is null"
+console.warn: "Failed to enumerate localStorage for host https://ielts.neea.cn: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate sessionStorage for host https://ielts.neea.cn: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://ielts.neea.cn: TypeError: caches is null"
+1590150870004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileOHPHf5"
+1590150870577	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590150871363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590150871363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590150871363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590150871363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590150874709	Marionette	INFO	Listening on port 11404
+1590150874798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSPBT, line 268: ReferenceError: $ is not defined
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSPBT, line 268: ReferenceError: $ is not defined
+JavaScript warning: resource://devtools/server/actors/inspector/event-collector.js, line 530: debuggee `https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5' would run
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 110ms)
+1590151514978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileFzz6Dr"
+1590151515565	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590151516353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590151516353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590151516354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590151516354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590151519672	Marionette	INFO	Listening on port 11906
+1590151519703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+1590151586624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofile0o0jwa"
+1590151587192	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590151587975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590151587975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590151587975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590151587975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590151591097	Marionette	INFO	Listening on port 12063
+1590151591351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript warning: resource://devtools/server/actors/inspector/event-collector.js, line 530: debuggee `https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5' would run
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 16: Error: Current thread has paused or resumed
+1590152028975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoya\\AppData\\Local\\Temp\\rust_mozprofileI74bLf"
+1590152029535	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590152030330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590152030330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590152030330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590152030330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590152033664	Marionette	INFO	Listening on port 12461
+1590152033707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-migrate-1.2.1.min.js, line 2: Script terminated by timeout at:
+e.event.trigger@https://ielts.neea.cn/jquery/jquery-migrate-1.2.1.min.js:2:1
+simulate@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:16639
+r@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:19701
+
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript warning: https://ielts.neea.cn/jquery/jquery-1.10.2.min.js, line 4: Script terminated by timeout at:
+x.fn.extend@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:4:2774
+simulate@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:16566
+r@https://ielts.neea.cn/jquery/jquery-1.10.2.min.js:5:19701
+
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+enter@resource://devtools/server/actors/utils/event-loop.js:79:18
+_pushThreadPause@resource://devtools/server/actors/thread.js:265:15
+_pauseAndRespond@resource://devtools/server/actors/thread.js:842:12
+onDebuggerStatement@resource://devtools/server/actors/thread.js:1776:17
+_$rV@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:104146
+_$rV@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:88968
+_$8e@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:1698
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1954:69
+addAllSources@resource://devtools/server/actors/thread.js:1338:14
+onSources@resource://devtools/server/actors/thread.js:1344:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+enter@resource://devtools/server/actors/utils/event-loop.js:79:18
+_pushThreadPause@resource://devtools/server/actors/thread.js:265:15
+_pauseAndRespond@resource://devtools/server/actors/thread.js:842:12
+onDebuggerStatement@resource://devtools/server/actors/thread.js:1776:17
+_$rV@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:104146
+_$rV@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:88968
+_$8e@https://ielts.neea.cn/myHome/53029506/homepage line 43 > eval:1:1698
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:loadPage('querySeat?productId=IELTSPBT');'
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 16: Error: Current thread has paused or resumed
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSUKVI, line 212: ReferenceError: $ is not defined
+JavaScript error: https://ielts.neea.cn/myHome/53029506/querySeat?productId=IELTSPBT, line 268: ReferenceError: $ is not defined
